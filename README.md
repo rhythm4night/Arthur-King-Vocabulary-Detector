@@ -16,4 +16,4 @@ Windows 自带防护软件报毒 是因为这是野鸡软件没有签名 请关�
 ##  STEP 2
 ![02](https://user-images.githubusercontent.com/126004179/220477524-a2717f45-f3f8-4728-9618-a21dbb0959cc.gif)
 
-准备好想要过滤的单词，拖入 ‘known’ 文件夹
+准备好想要过滤的单词，拖入 ‘known’ 文件夹（提供一些预设）
