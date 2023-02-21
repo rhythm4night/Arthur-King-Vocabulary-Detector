@@ -8,7 +8,7 @@ A simple program for extracting possible vocabulary from text
 Windows 自带防护软件报毒 是因为这是野鸡软件没有签名 请关闭防护后再食用
 
 
-Some security software reports the virus because it is pheasant software without signature, please close the protection before eating
+Some security software reports the virus because it is pheasant software without signature.
 
 
 ## 如何使用 How To Use
