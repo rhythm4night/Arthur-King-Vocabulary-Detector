@@ -28,7 +28,7 @@ Please drag the TXT file into the 'input' folder first
 
 准备好想要过滤的单词，拖入 ‘known’ 文件夹（已经提供一些预设）
 
-Please drag the filtered word file into the 'input' folder
+Please put the filtered word file into the 'input' folder
 
 ![02](https://user-images.githubusercontent.com/126004179/220477524-a2717f45-f3f8-4728-9618-a21dbb0959cc.gif)
 
