@@ -8,14 +8,17 @@ A simple program for extracting possible vocabulary from text
 Windows 自带防护软件报毒 是因为这是野鸡软件没有签名 请关闭防护后再食用
 
 
-##  STEP 1
+## 如何使用 How To Use
+
+
+###  STEP 1
 
 以STR字幕为例，请先把文件名后缀改为TXT，然后拖入 ‘input’ 文件夹
 
 ![01](https://user-images.githubusercontent.com/126004179/220475957-7245b888-2b12-4b93-b9aa-e6715f7855f9.gif)
 
 
-##  STEP 2
+###  STEP 2
 
 准备好想要过滤的单词，拖入 ‘known’ 文件夹（已经提供一些预设）
 
@@ -23,8 +26,14 @@ Windows 自带防护软件报毒 是因为这是野鸡软件没有签名 请关�
 
 
 
-##  STEP 3
+###  STEP 3
 运行程序，去 ‘outpot’ 文件夹查看生词
 
 ![03](https://user-images.githubusercontent.com/126004179/220483365-960246de-46e5-4654-83d0-32656f9cca16.gif)
+
+###  STEP 4
+前往词汇网站 ‘www.vocabulary.com’ 轻松创建List
+
+![04](https://user-images.githubusercontent.com/126004179/220484012-12422793-5ae1-4139-b64e-239d81975a89.gif)
+
 
