@@ -37,6 +37,8 @@ Windows 自带防护软件报毒 是因为这是野鸡软件没有签名 请关�
 ![04](https://user-images.githubusercontent.com/126004179/220484012-12422793-5ae1-4139-b64e-239d81975a89.gif)
 
 ## 引用的库
-using NHunspell;
-进行拼写检查和原型处理
+NHunspell https://www.nuget.org/packages/NHunspell/
+Hunspell.Native https://www.nuget.org/packages/Hunspell.Native/
+
+用于进行拼写检查和单词原型处理
 
