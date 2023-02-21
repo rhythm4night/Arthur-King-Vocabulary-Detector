@@ -18,7 +18,8 @@ Some security software reports the virus because it is pheasant software without
 
 以STR字幕为例，请先把文件名后缀改为TXT，然后拖入 ‘input’ 文件夹
 
-Take STR subtitles as an example, please change the file name suffix to TXT and then drag it into the 'input' folder
+Please drag the TXT file into the 'input' folder first
+
 
 ![01](https://user-images.githubusercontent.com/126004179/220475957-7245b888-2b12-4b93-b9aa-e6715f7855f9.gif)
 
@@ -27,16 +28,16 @@ Take STR subtitles as an example, please change the file name suffix to TXT and 
 
 准备好想要过滤的单词，拖入 ‘known’ 文件夹（已经提供一些预设）
 
-Prepare the words you want to filter by dragging them into the 'known' folder (some presets are already provided)
+Please drag the filtered word file into the 'input' folder
 
 ![02](https://user-images.githubusercontent.com/126004179/220477524-a2717f45-f3f8-4728-9618-a21dbb0959cc.gif)
 
 
 
 ###  STEP 3
-运行程序，去 ‘outpot’ 文件夹查看生词
+运行程序，去 ‘output’ 文件夹查看生词
 
-Run the program , go to the 'outpot' folder to see the raw words
+Run the program , Go to the 'output' folder to see the results
 
 ![03](https://user-images.githubusercontent.com/126004179/220483365-960246de-46e5-4654-83d0-32656f9cca16.gif)
 
