@@ -10,6 +10,9 @@ A simple program for extracting possible vocabulary from text
 Some security software reports the virus because it is pheasant software without signature
 
 
+## 介绍视频 Introduction Video
+
+[![Introduction Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1677080244/video_to_markdown/images/youtube---vO__prPsH4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=-vO__prPsH4 "Introduction Video")
 
 ## 如何使用 How To Use
 
