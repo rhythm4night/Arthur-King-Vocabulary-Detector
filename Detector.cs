@@ -14,19 +14,19 @@ namespace NewWordsDetector
             if (!Directory.Exists("known"))
             {
                 Console.WriteLine("known文件夹怎么没了，我给你重新创建了哈");
-                Console.WriteLine($"绝对路径: {Path.GetFullPath("known")}");
+                Console.WriteLine($"路径: {Path.GetFullPath("known")}");
                 Directory.CreateDirectory("known");
             }
             if (!Directory.Exists("input"))
             {
                 Console.WriteLine("input文件夹怎么没了，我给你重新创建了哈");
-                Console.WriteLine($"绝对路径: {Path.GetFullPath("input")}");
+                Console.WriteLine($"路径: {Path.GetFullPath("input")}");
                 Directory.CreateDirectory("input");
             }
             if (!Directory.Exists("output"))
             {
                 Console.WriteLine("output文件夹怎么没了，我给你重新创建了哈");
-                Console.WriteLine($"绝对路径: {Path.GetFullPath("output")}");
+                Console.WriteLine($"路径: {Path.GetFullPath("output")}");
                 Directory.CreateDirectory("output");
             }
 
