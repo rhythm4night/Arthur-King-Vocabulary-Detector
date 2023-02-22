@@ -41,6 +41,10 @@ Run the program , Go to the 'output' folder to see the results
 
 ![03](https://user-images.githubusercontent.com/126004179/220483365-960246de-46e5-4654-83d0-32656f9cca16.gif)
 
+你可以选择把生成的文件直接转手扔进‘known’ 文件夹，避免以后重复识别
+
+You can choose to just dump these files directly into the 'known' folder
+
 ###  STEP 4
 前往词汇网站 ‘www.vocabulary.com’ 轻松创建List
 
