@@ -10,10 +10,6 @@ A simple program for extracting possible vocabulary from text
 Some security software reports the virus because it is pheasant software without signature
 
 
-## 介绍视频 Introduction Video
-
-[![Introduction Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1677080244/video_to_markdown/images/youtube---vO__prPsH4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=-vO__prPsH4 "Introduction Video")
-
 ## 如何使用 How To Use
 
 
@@ -54,6 +50,10 @@ You can choose to just dump these files directly into the 'known' folder
 Go to the glossary website 'www.vocabulary.com' to easily create a List
 
 ![04](https://user-images.githubusercontent.com/126004179/220484012-12422793-5ae1-4139-b64e-239d81975a89.gif)
+
+## 介绍视频 Introduction Video
+
+[![Introduction Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1677080244/video_to_markdown/images/youtube---vO__prPsH4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=-vO__prPsH4 "Introduction Video")
 
 ## 引用的库
 NHunspell https://www.nuget.org/packages/NHunspell/
