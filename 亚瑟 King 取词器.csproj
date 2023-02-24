@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>亚瑟_King_取词器</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <ApplicationIcon>Arthur Thumbs Up.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Arthur Thumbs Up.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Hunspell.Native" Version="1.2.5359.26130" />
+    <PackageReference Include="NHunspell" Version="1.2.5554.16953" />
+  </ItemGroup>
+
+</Project>
