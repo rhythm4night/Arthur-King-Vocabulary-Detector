@@ -15,9 +15,9 @@ Some security software reports the virus because it is pheasant software without
 
 ###  STEP 1
 
-以STR字幕为例，请先把文件名后缀改为TXT，然后拖入 ‘input’ 文件夹
+把你想要识别的字幕文件拖入 ‘input’ 文件夹（TXT、SRT...）
 
-Please drag the TXT file into the 'input' folder first
+Please drag thefile into the 'input' folder first （TXT、SRT...）
 
 
 ![01](https://user-images.githubusercontent.com/126004179/220475957-7245b888-2b12-4b93-b9aa-e6715f7855f9.gif)
