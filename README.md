@@ -59,9 +59,8 @@ Go to the glossary website 'www.vocabulary.com' to easily create a List
 
 考虑到github有时可能访问速度较差，这是一些其他下载链接：
 
-https://www.mediafire.com/file/14wd5gzgcy39dli/King.Ver.1.2.x64.7z/file
-
-https://www.mediafire.com/file/gokfhibju29fczs/King.Ver.1.2.x86.7z/file
+https://www.mediafire.com/file/50uj5g97i2deuf0/King.Ver.1.2.x64.7z/file
+https://www.mediafire.com/file/w114orpmq1uraxw/King.Ver.1.2.x86.7z/file
 
 
 ## 引用的库
